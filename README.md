@@ -15,7 +15,6 @@ This is a web based application with AI that automate the attendance record. It 
 
 ![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/acb5bc34-3cf6-4964-a0ca-311d99dca8ee)
 
-![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/1bc5bd2c-bf33-4129-86db-05add567b9ce)
 
 
 ## Features
@@ -34,3 +33,7 @@ This is a web based application with AI that automate the attendance record. It 
   Roll <br />
   Date in proper format (DD-MM-YYYY) <br />
   or Even By Entering Multiple Fields Many Combinations are possible
+
+![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/1bc5bd2c-bf33-4129-86db-05add567b9ce)
+
+![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/ac7f3af4-f9e6-445e-9fd4-8ec9b207bd88)
