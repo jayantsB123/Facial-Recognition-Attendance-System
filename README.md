@@ -13,6 +13,11 @@ This is a web based application with AI that automate the attendance record. It 
 * **Pakage Manager** *Node Package Manager (npm) & Preferred Installer Program (pip)*
 <br />
 
+![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/acb5bc34-3cf6-4964-a0ca-311d99dca8ee)
+
+![image](https://github.com/jayantsB123/Facial-Recognition-Attendance-System/assets/97082996/1bc5bd2c-bf33-4129-86db-05add567b9ce)
+
+
 ## Features
 
 * you can create your Account and Access the data from Website, from any device anywhere anytime
