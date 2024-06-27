@@ -1,8 +1,8 @@
-# RegisterRover
+# Facial Recognition Attendance System
 
 ## Description
 
-RegisterRover is a web based application with AI that automate the attendance record. It will  detect every face that came in the range of the camera and compare it with the all the Students Already Present in the System. Then it will automatically update the arrival (Mark Present) in the database. 
+This is a web based application with AI that automate the attendance record. It will  detect every face that came in the range of the camera and compare it with the all the Students Already Present in the System. Then it will automatically update the arrival (Mark Present) in the database. 
 
 ## Technologies Used
 
@@ -15,7 +15,7 @@ RegisterRover is a web based application with AI that automate the attendance re
 
 ## Features
 
-* you can create your Account and Access the data from RegisterRover, from any device anywhere anytime
+* you can create your Account and Access the data from Website, from any device anywhere anytime
 * you can Add or Remove Students From the Database Associated With Your Account
 * you can Track Attendance Using The Live Camera Feed
 * you can See the Whole List of Students in the Students List Section
